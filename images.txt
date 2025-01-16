@@ -5,4 +5,5 @@
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 # sonatype/nexus:pro-2.15.2-03
-sonatype/nexus3:3.76.0-ubi
+#sonatype/nexus3:3.76.0-ubi
+mysql/8.0.30
