@@ -1,10 +1,10 @@
-openjdk:8
+# openjdk:8
 #nacos/nacos-server:v2.4.2
 #rabbitmq:3.8.34-management
 #rabbitmq:3.8.34
 #jenkins/jenkins:2.493
 #redis:6.2.6
-# nginx
+nginx:stable
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 # xhofe/alist:latest
